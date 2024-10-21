@@ -1,0 +1,3 @@
+cloudstorage/*
+node_modules/
+.env
